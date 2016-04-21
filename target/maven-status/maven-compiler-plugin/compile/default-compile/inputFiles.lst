@@ -1,2 +1,8 @@
 /Users/pachevjoseph/workspace/java/SuRest/src/main/java/com/surest/SuRestApplication.java
+/Users/pachevjoseph/workspace/java/SuRest/src/main/java/com/surest/Dto/Schedule.java
+/Users/pachevjoseph/workspace/java/SuRest/src/main/java/com/surest/Dao/ScheduleDao.java
+/Users/pachevjoseph/workspace/java/SuRest/src/main/java/com/surest/Config/Security/swagger/SwaggerConfig.java
 /Users/pachevjoseph/workspace/java/SuRest/src/main/java/com/surest/ServletInitializer.java
+/Users/pachevjoseph/workspace/java/SuRest/src/main/java/com/surest/Controller/ScheduleController.java
+/Users/pachevjoseph/workspace/java/SuRest/src/main/java/com/surest/Service/ScheduleService.java
+/Users/pachevjoseph/workspace/java/SuRest/src/main/java/com/surest/Controller/UserController.java

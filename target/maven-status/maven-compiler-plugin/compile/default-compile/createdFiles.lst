@@ -1,2 +1,8 @@
+com/surest/Config/Security/swagger/SwaggerConfig.class
+com/surest/Controller/UserController.class
 com/surest/ServletInitializer.class
+com/surest/Controller/ScheduleController.class
+com/surest/Service/ScheduleService.class
+com/surest/Dao/ScheduleDao.class
+com/surest/Dto/Schedule.class
 com/surest/SuRestApplication.class

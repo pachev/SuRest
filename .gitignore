@@ -44,6 +44,7 @@ hs_err_pid*
 .idea/
 /.mvn
 /target
+/.idea/workspace.xml
 .idea/tasks.xml
 .idea/dictionaries
 .idea/vcs.xml
