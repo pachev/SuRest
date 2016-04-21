@@ -73,6 +73,7 @@
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.16" />
           <element id="library" level="project" name="Maven: joda-time:joda-time:2.8.2" />
           <element id="library" level="project" name="Maven: com.mangofactory:swagger-springmvc:1.0.2" />
+          <element id="library" level="project" name="Maven: org.json:json:20160212" />
         </element>
       </element>
       <element id="directory" name="META-INF">
