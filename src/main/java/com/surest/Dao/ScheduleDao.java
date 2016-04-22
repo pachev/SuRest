@@ -18,9 +18,10 @@ public class ScheduleDao {
 
     public int insertSchedule(Schedule schedule) {
         try {
-            String sql = "INSERT INTO users ('mondays') VALUES(?);";
+            String sql ="INSERT INTO `schedules` (`mondays`, `tuesdays`) VALUES (?,?);";
 
-            jdbcTemplate.update(sql, schedule.getDay());
+
+            jdbcTemplate.update(sql, schedule.getDay(), schedule.getDay());
 
         } catch (Exception e) {
             e.printStackTrace();

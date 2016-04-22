@@ -1,8 +1,12 @@
-com/surest/Config/Security/swagger/SwaggerConfig.class
+com/surest/Config/Security/SecurityConfig.class
 com/surest/Controller/UserController.class
 com/surest/ServletInitializer.class
-com/surest/Controller/ScheduleController.class
 com/surest/Service/ScheduleService.class
+com/surest/Config/common/DatabaseConfig$SuRestDBProperties.class
+com/surest/Config/SwaggerConfig.class
 com/surest/Dao/ScheduleDao.class
 com/surest/Dto/Schedule.class
+com/surest/Config/Security/SecurityConfig$WebSecurityConfig.class
+com/surest/Config/common/DatabaseConfig.class
+com/surest/Controller/ScheduleController.class
 com/surest/SuRestApplication.class

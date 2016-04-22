@@ -1,4 +1,4 @@
-package com.surest.Config.Security.swagger;
+package com.surest.Config;
 
 import com.mangofactory.swagger.configuration.SpringSwaggerConfig;
 import com.mangofactory.swagger.models.dto.ApiInfo;
